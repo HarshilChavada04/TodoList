@@ -4,7 +4,7 @@ This is a simple todo-list application built using React.js. It provides a user-
 
 ## Screenshots
 
-![Alt Text](Screenshot.png)
+![Screenshot (5)](https://github.com/HarshilChavada04/TodoList/assets/137164671/b2618f0e-6a4e-4c60-b39a-640303e5e44b)
 
 ## Features
 
