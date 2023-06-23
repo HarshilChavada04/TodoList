@@ -12,6 +12,7 @@ This is a simple todo-list application built using React.js. It provides a user-
 - Delete items: Remove any specific task from the list by clicking the delete button associated with that task.
 - Mark as done: Each task has a checkbox, allowing you to mark it as done when completed.
 - Delete all items: Clear the entire list by clicking the "Delete All" button.
+- Edit items: If you need to make changes to a task, you can click the "Edit" button associated with that task. This will allow you to modify the task description.
 
 ## Getting Started
 
